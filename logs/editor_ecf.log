@@ -1,0 +1,20 @@
+2026-07-23 14:00:53,095 | INFO | Importado SpedEcf-07685694000197-Original-dez.2025.txt | 72518 linhas | versão 0012 | 0.271s
+2026-07-23 14:07:02,550 | INFO | Inseridos 313 | ignorados 0 | totalizadores 0990,9001,9900,9990,9999,C990,E990,J990,K990,L990,M990,N990,P990,Q990,S990,T990,U990,V990,W990,X990,Y990 | 7.756s
+2026-07-23 14:07:40,760 | INFO | Inseridos 313 | ignorados 0 | totalizadores 0990,9001,9900,9990,9999,C990,E990,J990,K990,L990,M990,N990,P990,Q990,S990,T990,U990,V990,W990,X990,Y990 | 7.951s
+2026-07-23 14:08:12,995 | INFO | Reparo: 0 tipo(s) de duplicata removidos | totalizadores 0990,9001,9900,9990,9999,C990,E990,J990,K990,L990,M990,N990,P990,Q990,S990,T990,U990,V990,W990,X990,Y990 | 8 pendência(s) | 0.926s
+2026-07-23 14:13:02,961 | INFO | Importado SpedEcf-07685694000197-Original-dez.2025.txt | 72518 linhas | versão 0012 | 0.299s
+2026-07-23 14:14:16,419 | INFO | Inseridos 313 | ignorados 0 | totalizadores 0990,9001,9900,9990,9999,C990,E990,J990,K990,L990,M990,N990,P990,Q990,S990,T990,U990,V990,W990,X990,Y990 | 6.721s
+2026-07-23 14:14:16,419 | INFO | Chat lote: lote_substituir | 281 registro(s) anterior(es) removido(s); 313 inserido(s). Totalizadores atualizados — 72550 linhas. (6.74s)
+2026-07-23 14:14:38,408 | INFO | Reparo: 0 tipo(s) de duplicata removidos | totalizadores 0990,9001,9900,9990,9999,C990,E990,J990,K990,L990,M990,N990,P990,Q990,S990,T990,U990,V990,W990,X990,Y990 | 8 pendência(s) | 0.751s
+2026-07-23 14:15:17,836 | INFO | Importado SpedEcf-07685694000197-Original-dez.2025.txt | 72518 linhas | versão 0012 | 0.379s
+2026-07-23 14:15:59,550 | INFO | Inseridos 313 | ignorados 0 | totalizadores 0990,9001,9900,9990,9999,C990,E990,J990,K990,L990,M990,N990,P990,Q990,S990,T990,U990,V990,W990,X990,Y990 | 7.665s
+2026-07-23 14:15:59,550 | INFO | Chat lote: lote_substituir | 281 registro(s) anterior(es) removido(s); 313 inserido(s). Totalizadores atualizados — 72550 linhas. (7.68s)
+2026-07-23 14:16:21,000 | INFO | Reparo: 0 tipo(s) de duplicata removidos | totalizadores 0990,9001,9900,9990,9999,C990,E990,J990,K990,L990,M990,N990,P990,Q990,S990,T990,U990,V990,W990,X990,Y990 | 8 pendência(s) | 0.729s
+2026-07-23 14:40:46,239 | INFO | Importado ECF_editada (2).txt | 72550 linhas | versão 0012 | 0.295s
+2026-07-23 14:44:53,123 | INFO | Importado ECF_editada (2).txt | 72550 linhas | versão 0012 | 0.268s
+2026-07-23 15:02:28,419 | INFO | Importado ECF_editada (2).txt | 72550 linhas | versão 0012 | 0.197s
+2026-07-23 15:08:11,439 | INFO | Importado ECF_editada (2).txt | 72550 linhas | versão 0012 | 0.277s
+2026-07-23 15:12:46,470 | INFO | Importado ECF_editada (2).txt | 72550 linhas | versão 0012 | 0.282s
+2026-07-23 15:16:09,330 | INFO | Importado SpedEcf-10234027000100-Original-dez.2025.txt | 58880 linhas | versão 0012 | 0.177s
+2026-07-23 15:20:44,095 | INFO | Importado SpedEcf-10234027000100-Original-dez.2025.txt | 58880 linhas | versão 0012 | 0.182s
+2026-07-23 15:39:37,383 | INFO | Importado SpedEcf-10234027000100-Original-dez.2025.txt | 58880 linhas | versão 0012 | 0.207s
